@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rich Webster: @richoid
+- 👀 I’m a tech writer for a non-profit-not-evil health insurance company, who is dabbling in web dev on the side. I used to be a web dev. It's better as a hobby, at least for now.
+- 🌱 I’m currently learning TALL Stack
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me...? yeah, probably not.
